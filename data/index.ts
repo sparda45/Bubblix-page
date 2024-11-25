@@ -84,7 +84,7 @@ export const projects = [
     des: "We provide accurate and efficient data entry services to input information from online sources into a clean, well-structured spreadsheet format. This service includes web research and LinkedIn data generation, making it ideal for your business needs in collecting and managing information effortlessly..",
     img: "/data.svg",
 
-    link: "https://www.behance.net/bubblixCO",
+    link: "https://www.fiverr.com/bubblixstudio/do-data-entry-to-spreadsheet-web-research-and-linked-in-generation-data",
   },
   {
     id: 3,
@@ -196,13 +196,13 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
-    link: "",
+    img: "/instagram.svg",
+    link: "https://www.instagram.com/bubblix.studio/?hl=id",
   },
   {
     id: 2,
-    img: "/twit.svg",
-    link: "",
+    img: "/fiver.svg",
+    link: "https://www.fiverr.com/bubblixstudio?source=gig_page",
   },
   {
     id: 3,
